@@ -38,7 +38,7 @@ Mi objetivo es combinar mi perfil técnico con soluciones inteligentes para opti
 
 ### 📫 Contacto
 📧 [vicentmuedravillar@gmail.com](mailto:vicentmuedravillar@gmail.com)  
-🔗 Mi perfil de LinkedIn (https://www.linkedin.com/in/vicent-muedra-villar/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/vicent-muedra-villar/) 
 💻 [Portfolio en construcción](https://github.com/alvarovicent)
 
 ---
